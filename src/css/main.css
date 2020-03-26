@@ -1,0 +1,14 @@
+img{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.logo{
+    width:50%;
+    margin-left: 25%;
+}
+
+body{
+    background-image: linear-gradient(rgb(165, 228, 207), rgb(123, 184, 235));
+}
